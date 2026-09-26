@@ -3,7 +3,7 @@
     "id": "pipeline-test-30k",
     "media_file": "media/test-30k-blackbg.mp4",
     "media_type": "REELS",
-    "caption": "Pipeline test post — plain black background, text only. Real B-roll content coming next. (Internal test, disregard.)",
+    "caption": "Pipeline test post \u2014 plain black background, text only. Real B-roll content coming next. (Internal test, disregard.)",
     "scheduled_time": "2026-09-26T18:05:00+00:00",
     "status": "posted",
     "ig_media_id": "18112443362024649",
@@ -16,9 +16,9 @@
     "media_type": "REELS",
     "caption": "Our next Founders Networking Dinner is October 15th in Islamabad. A small, application only room for founders already past the $10K to $25K a month stage.\n\nDM \"SCALE\" for details and to join.",
     "scheduled_time": "2026-09-26T18:32:00+00:00",
-    "status": "approved",
-    "ig_media_id": null,
-    "posted_at": null,
+    "status": "posted",
+    "ig_media_id": "18410834809084483",
+    "posted_at": "2026-09-26T18:33:32.308253+00:00",
     "last_error": null
   }
 ]

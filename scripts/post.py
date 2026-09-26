@@ -63,14 +63,20 @@ def due_items(items: list) -> list:
 
 def create_media_container(item: dict) -> str:
     video_url = raw_media_url(item["media_file"])
+    data = {
+        "media_type": item.get("media_type", "REELS"),
+        "video_url": video_url,
+        "caption": item["caption"],
+        "access_token": IG_ACCESS_TOKEN,
+    }
+    if item.get("trial"):
+        # Trial reels are shown to non-followers first; SS_PERFORMANCE lets
+        # Instagram auto-graduate it to the main grid if it performs well,
+        # with no manual in-app step required.
+        data["trial_params"] = json.dumps({"graduation_strategy": "SS_PERFORMANCE"})
     resp = requests.post(
         f"https://graph.facebook.com/{GRAPH_VERSION}/{IG_BUSINESS_ID}/media",
-        data={
-            "media_type": item.get("media_type", "REELS"),
-            "video_url": video_url,
-            "caption": item["caption"],
-            "access_token": IG_ACCESS_TOKEN,
-        },
+        data=data,
         timeout=60,
     )
     resp.raise_for_status()

@@ -3,11 +3,11 @@
     "id": "pipeline-test-30k",
     "media_file": "media/test-30k-blackbg.mp4",
     "media_type": "REELS",
-    "caption": "Pipeline test post — plain black background, text only. Real B-roll content coming next. (Internal test, disregard.)",
+    "caption": "Pipeline test post \u2014 plain black background, text only. Real B-roll content coming next. (Internal test, disregard.)",
     "scheduled_time": "2026-09-26T18:05:00+00:00",
-    "status": "approved",
-    "ig_media_id": null,
-    "posted_at": null,
+    "status": "posted",
+    "ig_media_id": "18112443362024649",
+    "posted_at": "2026-09-26T18:06:56.519740+00:00",
     "last_error": null
   }
 ]

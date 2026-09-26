@@ -1,0 +1,48 @@
+name: Publish queued Instagram content
+
+on:
+  schedule:
+    # Runs at the top of every hour, UTC. GitHub's scheduler can drift a
+    # few minutes under load — post.py compares full timestamps, not the
+    # hour boundary, so a late run still posts the right item on time.
+    - cron: "0 * * * *"
+  workflow_dispatch: {} # lets you trigger a run manually from the Actions tab
+
+permissions:
+  contents: write # needed so the workflow can commit the updated queue.json
+
+concurrency:
+  group: publish-queue
+  cancel-in-progress: false # never cancel a run that might be mid-publish
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: pip install requests
+
+      - name: Publish due queue item
+        env:
+          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+          IG_BUSINESS_ID: ${{ secrets.IG_BUSINESS_ID }}
+        run: python scripts/post.py
+
+      - name: Commit updated queue.json
+        run: |
+          git config user.name "connector-club-bot"
+          git config user.email "actions@users.noreply.github.com"
+          if ! git diff --quiet queue.json; then
+            git add queue.json
+            git commit -m "chore: update queue status [skip ci]"
+            git push
+          else
+            echo "No queue changes to commit."
+          fi

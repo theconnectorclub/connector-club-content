@@ -1,0 +1,24 @@
+name: Inspect a published media item
+
+on:
+  workflow_dispatch:
+    inputs:
+      media_id:
+        description: "The ig_media_id to inspect"
+        required: true
+        type: string
+
+jobs:
+  inspect:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install requests
+      - name: Inspect media
+        env:
+          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+          MEDIA_ID: ${{ inputs.media_id }}
+        run: python scripts/inspect_media.py

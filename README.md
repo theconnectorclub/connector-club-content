@@ -71,4 +71,11 @@ on schedule instead of flooding the account if a run gets missed.
 - The Meta **app** (`autoposting`, ID 923546734112622) is reused across
   projects by prior explicit approval — but the **token** and **Instagram
   Business Account ID** here are unique to @theconnectorclub_.
-# test
+- Git push for this repo uses a **repo-scoped credential helper**
+  (`.git/config`, not committed) that always fetches `theconnectorclub`'s
+  token by name, rather than relying on whichever GitHub account `gh` has
+  globally active — this Mac runs multiple concurrent sessions across
+  different projects/accounts, and the global "active account" gets
+  switched by other sessions. Confirmed 2026-09-27: pushes from this repo
+  keep working even when another session switches the global active
+  account away from theconnectorclub.

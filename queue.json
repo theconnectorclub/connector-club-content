@@ -49,707 +49,766 @@
     "media_file": "media/batch1/post-02-ceiling.mp4",
     "media_type": "REELS",
     "caption": "Founders Networking Dinner, October 15th, Islamabad. Built for founders in this city stuck at exactly this stage. DM \"CEILING\" for details and to join.",
-    "scheduled_time": "2026-09-27T01:00:00+00:00",
+    "scheduled_time": "2026-09-27T13:03:09+00:00",
     "status": "approved",
     "trial": true,
     "ig_media_id": null,
     "posted_at": null,
-    "last_error": null
+    "last_error": null,
+    "share_to_feed": false
   },
   {
     "id": "batch1-03-stresstest",
     "media_file": "media/batch1/post-03-stresstest.mp4",
     "media_type": "REELS",
     "caption": "Founders Networking Dinner, October 15th, Islamabad. Build the habit before the crisis makes you look for it. DM \"STRESSTEST\" for details and to join.",
-    "scheduled_time": "2026-09-27T05:00:00+00:00",
+    "scheduled_time": "2026-09-27T15:03:09+00:00",
     "status": "approved",
     "trial": true,
     "ig_media_id": null,
     "posted_at": null,
-    "last_error": null
+    "last_error": null,
+    "share_to_feed": false
   },
   {
     "id": "batch1-04-askearly",
     "media_file": "media/batch1/post-04-askearly.mp4",
     "media_type": "REELS",
     "caption": "Founders Networking Dinner, October 15th, Islamabad. Come meet the people you'd actually want to ask. DM \"ASKEARLY\" for details and to join.",
-    "scheduled_time": "2026-09-27T09:00:00+00:00",
+    "scheduled_time": "2026-09-27T17:03:09+00:00",
     "status": "approved",
     "trial": true,
     "ig_media_id": null,
     "posted_at": null,
-    "last_error": null
+    "last_error": null,
+    "share_to_feed": false
   },
   {
     "id": "batch1-05-knownhere",
     "media_file": "media/batch1/post-05-knownhere.mp4",
     "media_type": "REELS",
     "caption": "Founders Networking Dinner, October 15th, Islamabad. One of the rooms where that reputation actually starts. DM \"KNOWNHERE\" for details and to join.",
-    "scheduled_time": "2026-09-27T13:00:00+00:00",
+    "scheduled_time": "2026-09-27T19:03:09+00:00",
     "status": "approved",
     "trial": true,
     "ig_media_id": null,
     "posted_at": null,
-    "last_error": null
+    "last_error": null,
+    "share_to_feed": false
   },
   {
     "id": "batch1-06-localfix",
     "media_file": "media/batch1/post-06-localfix.mp4",
     "media_type": "REELS",
     "caption": "Founders Networking Dinner, October 15th, Islamabad. Meet the circle that's already solved what you're stuck on. DM \"LOCALFIX\" for details and to join.",
-    "scheduled_time": "2026-09-27T17:00:00+00:00",
+    "scheduled_time": "2026-09-27T21:03:09+00:00",
     "status": "approved",
     "trial": true,
     "ig_media_id": null,
     "posted_at": null,
-    "last_error": null
+    "last_error": null,
+    "share_to_feed": false
   },
   {
     "id": "batch1-07-hirelesson",
     "media_file": "media/batch1/post-07-hirelesson.mp4",
     "media_type": "REELS",
     "caption": "Founders Networking Dinner, October 15th, Islamabad. Hear the hiring mistakes before you make them yourself. DM \"HIRELESSON\" for details and to join.",
-    "scheduled_time": "2026-09-27T21:00:00+00:00",
+    "scheduled_time": "2026-09-27T23:03:09+00:00",
     "status": "approved",
     "trial": true,
     "ig_media_id": null,
     "posted_at": null,
-    "last_error": null
+    "last_error": null,
+    "share_to_feed": false
   },
   {
     "id": "batch1-08-quietones",
     "media_file": "media/batch1/post-08-quietones.mp4",
     "media_type": "REELS",
     "caption": "Founders Networking Dinner, October 15th, Islamabad. Meet the founders the algorithm never shows you. DM \"QUIETONES\" for details and to join.",
-    "scheduled_time": "2026-09-28T01:00:00+00:00",
+    "scheduled_time": "2026-09-28T01:03:09+00:00",
     "status": "approved",
     "trial": true,
     "ig_media_id": null,
     "posted_at": null,
-    "last_error": null
+    "last_error": null,
+    "share_to_feed": false
   },
   {
     "id": "batch1-09-figuredout",
     "media_file": "media/batch1/post-09-figuredout.mp4",
     "media_type": "REELS",
     "caption": "Founders Networking Dinner, October 15th, Islamabad. That room, one evening, application only. DM \"FIGUREDOUT\" for details and to join.",
-    "scheduled_time": "2026-09-28T05:00:00+00:00",
+    "scheduled_time": "2026-09-28T03:03:09+00:00",
     "status": "approved",
     "trial": true,
     "ig_media_id": null,
     "posted_at": null,
-    "last_error": null
+    "last_error": null,
+    "share_to_feed": false
   },
   {
     "id": "batch1-10-aheadofme",
     "media_file": "media/batch1/post-10-aheadofme.mp4",
     "media_type": "REELS",
     "caption": "Founders Networking Dinner, October 15th, Islamabad. Meet someone a year ahead of you, at the table, not on a call. DM \"AHEADOFME\" for details and to join.",
-    "scheduled_time": "2026-09-28T09:00:00+00:00",
+    "scheduled_time": "2026-09-28T05:03:09+00:00",
     "status": "approved",
     "trial": true,
     "ig_media_id": null,
     "posted_at": null,
-    "last_error": null
+    "last_error": null,
+    "share_to_feed": false
   },
   {
     "id": "batch1-11-localcontext",
     "media_file": "media/batch1/post-11-localcontext.mp4",
     "media_type": "REELS",
     "caption": "Founders Networking Dinner, October 15th, Islamabad. Local context, at the table, from founders actually building here. DM \"LOCALCONTEXT\" for details and to join.",
-    "scheduled_time": "2026-09-28T13:00:00+00:00",
+    "scheduled_time": "2026-09-28T07:03:09+00:00",
     "status": "approved",
     "trial": true,
     "ig_media_id": null,
     "posted_at": null,
-    "last_error": null
+    "last_error": null,
+    "share_to_feed": false
   },
   {
     "id": "batch1-12-unstuck",
     "media_file": "media/batch1/post-12-unstuck.mp4",
     "media_type": "REELS",
     "caption": "Founders Networking Dinner, October 15th, Islamabad. Find the room. DM \"UNSTUCK\" for details and to join.",
-    "scheduled_time": "2026-09-28T17:00:00+00:00",
+    "scheduled_time": "2026-09-28T09:03:09+00:00",
     "status": "approved",
     "trial": true,
     "ig_media_id": null,
     "posted_at": null,
-    "last_error": null
+    "last_error": null,
+    "share_to_feed": false
   },
   {
     "id": "batch1-13-whogetsit",
     "media_file": "media/batch1/post-13-whogetsit.mp4",
     "media_type": "REELS",
     "caption": "Founders Networking Dinner, October 15th, Islamabad. Built on purpose, for exactly that question. DM \"WHOGETSIT\" for details and to join.",
-    "scheduled_time": "2026-09-28T21:00:00+00:00",
+    "scheduled_time": "2026-09-28T11:03:09+00:00",
     "status": "approved",
     "trial": true,
     "ig_media_id": null,
     "posted_at": null,
-    "last_error": null
+    "last_error": null,
+    "share_to_feed": false
   },
   {
     "id": "batch1-14-stayhere",
     "media_file": "media/batch1/post-14-stayhere.mp4",
     "media_type": "REELS",
     "caption": "Founders Networking Dinner, October 15th, Islamabad. Built so you don't have to leave the city to find the room. DM \"STAYHERE\" for details and to join.",
-    "scheduled_time": "2026-09-29T01:00:00+00:00",
+    "scheduled_time": "2026-09-28T13:03:09+00:00",
     "status": "approved",
     "trial": true,
     "ig_media_id": null,
     "posted_at": null,
-    "last_error": null
+    "last_error": null,
+    "share_to_feed": false
   },
   {
     "id": "batch1-15-habit",
     "media_file": "media/batch1/post-15-habit.mp4",
     "media_type": "REELS",
     "caption": "Founders Networking Dinner, October 15th, Islamabad. Start the habit here. DM \"HABIT\" for details and to join.",
-    "scheduled_time": "2026-09-29T05:00:00+00:00",
+    "scheduled_time": "2026-09-28T15:03:09+00:00",
     "status": "approved",
     "trial": true,
     "ig_media_id": null,
     "posted_at": null,
-    "last_error": null
+    "last_error": null,
+    "share_to_feed": false
   },
   {
     "id": "batch1-16-warmlead",
     "media_file": "media/batch1/post-16-warmlead.mp4",
     "media_type": "REELS",
     "caption": "Founders Networking Dinner, October 15th, Islamabad. Half the room is exactly the kind of adjacent Islamabad founder who'd refer you business without being asked. DM \"WARMLEAD\" for details and to join.",
-    "scheduled_time": "2026-09-29T09:00:00+00:00",
+    "scheduled_time": "2026-09-28T17:03:09+00:00",
     "status": "approved",
     "trial": true,
     "ig_media_id": null,
     "posted_at": null,
-    "last_error": null
+    "last_error": null,
+    "share_to_feed": false
   },
   {
     "id": "batch1-17-adjacent",
     "media_file": "media/batch1/post-17-adjacent.mp4",
     "media_type": "REELS",
     "caption": "Founders Networking Dinner, October 15th, Islamabad. Application only, so the room is built for relevance, not headcount. DM \"ADJACENT\" for details and to join.",
-    "scheduled_time": "2026-09-29T13:00:00+00:00",
+    "scheduled_time": "2026-09-28T19:03:09+00:00",
     "status": "approved",
     "trial": true,
     "ig_media_id": null,
     "posted_at": null,
-    "last_error": null
+    "last_error": null,
+    "share_to_feed": false
   },
   {
     "id": "batch1-18-referral",
     "media_file": "media/batch1/post-18-referral.mp4",
     "media_type": "REELS",
     "caption": "Founders Networking Dinner, October 15th, Islamabad. The referral system starts with one evening, not fifty cold emails. DM \"REFERRAL\" for details and to join.",
-    "scheduled_time": "2026-09-29T17:00:00+00:00",
+    "scheduled_time": "2026-09-28T21:03:09+00:00",
     "status": "approved",
     "trial": true,
     "ig_media_id": null,
     "posted_at": null,
-    "last_error": null
+    "last_error": null,
+    "share_to_feed": false
   },
   {
     "id": "batch1-19-crossrefer",
     "media_file": "media/batch1/post-19-crossrefer.mp4",
     "media_type": "REELS",
     "caption": "Founders Networking Dinner, October 15th, Islamabad. Meet the agencies in this city worth cross-referring with. DM \"CROSSREFER\" for details and to join.",
-    "scheduled_time": "2026-09-29T21:00:00+00:00",
+    "scheduled_time": "2026-09-28T23:03:09+00:00",
     "status": "approved",
     "trial": true,
     "ig_media_id": null,
     "posted_at": null,
-    "last_error": null
+    "last_error": null,
+    "share_to_feed": false
   },
   {
     "id": "batch1-20-subcontract",
     "media_file": "media/batch1/post-20-subcontract.mp4",
     "media_type": "REELS",
     "caption": "Founders Networking Dinner, October 15th, Islamabad. IT exporters in this city, at the same table. DM \"SUBCONTRACT\" for details and to join.",
-    "scheduled_time": "2026-09-30T01:00:00+00:00",
+    "scheduled_time": "2026-09-29T01:03:09+00:00",
     "status": "approved",
     "trial": true,
     "ig_media_id": null,
     "posted_at": null,
-    "last_error": null
+    "last_error": null,
+    "share_to_feed": false
   },
   {
     "id": "batch1-21-groundwork",
     "media_file": "media/batch1/post-21-groundwork.mp4",
     "media_type": "REELS",
     "caption": "Founders Networking Dinner, October 15th, Islamabad. Build the groundwork before you need it. DM \"GROUNDWORK\" for details and to join.",
-    "scheduled_time": "2026-09-30T05:00:00+00:00",
+    "scheduled_time": "2026-09-29T03:03:09+00:00",
     "status": "approved",
     "trial": true,
     "ig_media_id": null,
     "posted_at": null,
-    "last_error": null
+    "last_error": null,
+    "share_to_feed": false
   },
   {
     "id": "batch1-22-nopitch",
     "media_file": "media/batch1/post-22-nopitch.mp4",
     "media_type": "REELS",
     "caption": "Founders Networking Dinner, October 15th, Islamabad. No pitch floor, on purpose. DM \"NOPITCH\" for details and to join.",
-    "scheduled_time": "2026-09-30T09:00:00+00:00",
+    "scheduled_time": "2026-09-29T05:03:09+00:00",
     "status": "approved",
     "trial": true,
     "ig_media_id": null,
     "posted_at": null,
-    "last_error": null
+    "last_error": null,
+    "share_to_feed": false
   },
   {
     "id": "batch1-23-actualcoffee",
     "media_file": "media/batch1/post-23-actualcoffee.mp4",
     "media_type": "REELS",
     "caption": "Founders Networking Dinner, October 15th, Islamabad. The structured version of \"let's grab coffee,\" that actually happens. DM \"ACTUALCOFFEE\" for details and to join.",
-    "scheduled_time": "2026-09-30T13:00:00+00:00",
+    "scheduled_time": "2026-09-29T07:03:09+00:00",
     "status": "approved",
     "trial": true,
     "ig_media_id": null,
     "posted_at": null,
-    "last_error": null
+    "last_error": null,
+    "share_to_feed": false
   },
   {
     "id": "batch1-24-sametable",
     "media_file": "media/batch1/post-24-sametable.mp4",
     "media_type": "REELS",
     "caption": "Founders Networking Dinner, October 15th, Islamabad. The table where that introduction finally happens. DM \"SAMETABLE\" for details and to join.",
-    "scheduled_time": "2026-09-30T17:00:00+00:00",
+    "scheduled_time": "2026-09-29T09:03:09+00:00",
     "status": "approved",
     "trial": true,
     "ig_media_id": null,
     "posted_at": null,
-    "last_error": null
+    "last_error": null,
+    "share_to_feed": false
   },
   {
     "id": "batch1-25-oneintro",
     "media_file": "media/batch1/post-25-oneintro.mp4",
     "media_type": "REELS",
     "caption": "Founders Networking Dinner, October 15th, Islamabad. Fix the access problem in one evening. DM \"ONEINTRO\" for details and to join.",
-    "scheduled_time": "2026-09-30T21:00:00+00:00",
+    "scheduled_time": "2026-09-29T11:03:09+00:00",
     "status": "approved",
     "trial": true,
     "ig_media_id": null,
     "posted_at": null,
-    "last_error": null
+    "last_error": null,
+    "share_to_feed": false
   },
   {
     "id": "batch1-26-steadywork",
     "media_file": "media/batch1/post-26-steadywork.mp4",
     "media_type": "REELS",
     "caption": "Founders Networking Dinner, October 15th, Islamabad. Start building that circle now. DM \"STEADYWORK\" for details and to join.",
-    "scheduled_time": "2026-10-01T01:00:00+00:00",
+    "scheduled_time": "2026-09-29T13:03:09+00:00",
     "status": "approved",
     "trial": true,
     "ig_media_id": null,
     "posted_at": null,
-    "last_error": null
+    "last_error": null,
+    "share_to_feed": false
   },
   {
     "id": "batch1-27-shareclient",
     "media_file": "media/batch1/post-27-shareclient.mp4",
     "media_type": "REELS",
     "caption": "Founders Networking Dinner, October 15th, Islamabad. Where exporters and agencies actually meet each other. DM \"SHARECLIENT\" for details and to join.",
-    "scheduled_time": "2026-10-01T05:00:00+00:00",
+    "scheduled_time": "2026-09-29T15:03:09+00:00",
     "status": "approved",
     "trial": true,
     "ig_media_id": null,
     "posted_at": null,
-    "last_error": null
+    "last_error": null,
+    "share_to_feed": false
   },
   {
     "id": "batch1-28-getknown",
     "media_file": "media/batch1/post-28-getknown.mp4",
     "media_type": "REELS",
     "caption": "Founders Networking Dinner, October 15th, Islamabad. Build the visibility that actually earns referrals. DM \"GETKNOWN\" for details and to join.",
-    "scheduled_time": "2026-10-01T09:00:00+00:00",
+    "scheduled_time": "2026-09-29T17:03:09+00:00",
     "status": "approved",
     "trial": true,
     "ig_media_id": null,
     "posted_at": null,
-    "last_error": null
+    "last_error": null,
+    "share_to_feed": false
   },
   {
     "id": "batch1-29-wishlist",
     "media_file": "media/batch1/post-29-wishlist.mp4",
     "media_type": "REELS",
     "caption": "Founders Networking Dinner, October 15th, Islamabad. Close that gap in one evening. DM \"WISHLIST\" for details and to join.",
-    "scheduled_time": "2026-10-01T13:00:00+00:00",
+    "scheduled_time": "2026-09-29T19:03:09+00:00",
     "status": "approved",
     "trial": true,
     "ig_media_id": null,
     "posted_at": null,
-    "last_error": null
+    "last_error": null,
+    "share_to_feed": false
   },
   {
     "id": "batch1-30-noadspend",
     "media_file": "media/batch1/post-30-noadspend.mp4",
     "media_type": "REELS",
     "caption": "Founders Networking Dinner, October 15th, Islamabad. Start building the channel with no ad spend required. DM \"NOADSPEND\" for details and to join.",
-    "scheduled_time": "2026-10-01T17:00:00+00:00",
+    "scheduled_time": "2026-09-29T21:03:09+00:00",
     "status": "approved",
     "trial": true,
     "ig_media_id": null,
     "posted_at": null,
-    "last_error": null
+    "last_error": null,
+    "share_to_feed": false
   },
   {
     "id": "batch1-31-room",
     "media_file": "media/batch1/post-31-room.mp4",
     "media_type": "REELS",
     "caption": "Founders Networking Dinner, October 15th, Islamabad. A room of founders and operators worth being known by, here. DM \"ROOM\" for details and to join.",
-    "scheduled_time": "2026-10-01T21:00:00+00:00",
+    "scheduled_time": "2026-09-29T23:03:09+00:00",
     "status": "approved",
     "trial": true,
     "ig_media_id": null,
     "posted_at": null,
-    "last_error": null
+    "last_error": null,
+    "share_to_feed": false
   },
   {
     "id": "batch1-32-visible",
     "media_file": "media/batch1/post-32-visible.mp4",
     "media_type": "REELS",
     "caption": "Founders Networking Dinner, October 15th, Islamabad. Built specifically to be that room. DM \"VISIBLE\" for details and to join.",
-    "scheduled_time": "2026-10-02T01:00:00+00:00",
+    "scheduled_time": "2026-09-30T01:03:09+00:00",
     "status": "approved",
     "trial": true,
     "ig_media_id": null,
     "posted_at": null,
-    "last_error": null
+    "last_error": null,
+    "share_to_feed": false
   },
   {
     "id": "batch1-33-tenpeople",
     "media_file": "media/batch1/post-33-tenpeople.mp4",
     "media_type": "REELS",
     "caption": "Founders Networking Dinner, October 15th, Islamabad. Curated specifically so the room is worth being known in. DM \"TENPEOPLE\" for details and to join.",
-    "scheduled_time": "2026-10-02T05:00:00+00:00",
+    "scheduled_time": "2026-09-30T03:03:09+00:00",
     "status": "approved",
     "trial": true,
     "ig_media_id": null,
     "posted_at": null,
-    "last_error": null
+    "last_error": null,
+    "share_to_feed": false
   },
   {
     "id": "batch1-34-showingup",
     "media_file": "media/batch1/post-34-showingup.mp4",
     "media_type": "REELS",
     "caption": "Founders Networking Dinner, October 15th, Islamabad. Start showing up here. DM \"SHOWINGUP\" for details and to join.",
-    "scheduled_time": "2026-10-02T09:00:00+00:00",
+    "scheduled_time": "2026-09-30T05:03:09+00:00",
     "status": "approved",
     "trial": true,
     "ig_media_id": null,
     "posted_at": null,
-    "last_error": null
+    "last_error": null,
+    "share_to_feed": false
   },
   {
     "id": "batch1-35-realrep",
     "media_file": "media/batch1/post-35-realrep.mp4",
     "media_type": "REELS",
     "caption": "Founders Networking Dinner, October 15th, Islamabad. Build the reputation that actually moves your business. DM \"REALREP\" for details and to join.",
-    "scheduled_time": "2026-10-02T13:00:00+00:00",
+    "scheduled_time": "2026-09-30T07:03:09+00:00",
     "status": "approved",
     "trial": true,
     "ig_media_id": null,
     "posted_at": null,
-    "last_error": null
+    "last_error": null,
+    "share_to_feed": false
   },
   {
     "id": "batch1-36-warmintro",
     "media_file": "media/batch1/post-36-warmintro.mp4",
     "media_type": "REELS",
     "caption": "Founders Networking Dinner, October 15th, Islamabad. Investors and experienced operators included, deliberately, not by accident. DM \"WARMINTRO\" for details and to join.",
-    "scheduled_time": "2026-10-02T17:00:00+00:00",
+    "scheduled_time": "2026-09-30T09:03:09+00:00",
     "status": "approved",
     "trial": true,
     "ig_media_id": null,
     "posted_at": null,
-    "last_error": null
+    "last_error": null,
+    "share_to_feed": false
   },
   {
     "id": "batch1-37-closethegap",
     "media_file": "media/batch1/post-37-closethegap.mp4",
     "media_type": "REELS",
     "caption": "Founders Networking Dinner, October 15th, Islamabad. Meet the founders you haven't been introduced to yet. DM \"CLOSETHEGAP\" for details and to join.",
-    "scheduled_time": "2026-10-02T21:00:00+00:00",
+    "scheduled_time": "2026-09-30T11:03:09+00:00",
     "status": "approved",
     "trial": true,
     "ig_media_id": null,
     "posted_at": null,
-    "last_error": null
+    "last_error": null,
+    "share_to_feed": false
   },
   {
     "id": "batch1-38-compound",
     "media_file": "media/batch1/post-38-compound.mp4",
     "media_type": "REELS",
     "caption": "Founders Networking Dinner, October 15th, Islamabad. Start the compounding here. DM \"COMPOUND\" for details and to join.",
-    "scheduled_time": "2026-10-03T01:00:00+00:00",
+    "scheduled_time": "2026-09-30T13:03:09+00:00",
     "status": "approved",
     "trial": true,
     "ig_media_id": null,
     "posted_at": null,
-    "last_error": null
+    "last_error": null,
+    "share_to_feed": false
   },
   {
     "id": "batch1-39-startnow",
     "media_file": "media/batch1/post-39-startnow.mp4",
     "media_type": "REELS",
     "caption": "Founders Networking Dinner, October 15th, Islamabad. Start now instead of catching up later. DM \"STARTNOW\" for details and to join.",
-    "scheduled_time": "2026-10-03T05:00:00+00:00",
+    "scheduled_time": "2026-09-30T15:03:09+00:00",
     "status": "approved",
     "trial": true,
     "ig_media_id": null,
     "posted_at": null,
-    "last_error": null
+    "last_error": null,
+    "share_to_feed": false
   },
   {
     "id": "batch1-40-association",
     "media_file": "media/batch1/post-40-association.mp4",
     "media_type": "REELS",
     "caption": "Founders Networking Dinner, October 15th, Islamabad. Choose this one. DM \"ASSOCIATION\" for details and to join.",
-    "scheduled_time": "2026-10-03T09:00:00+00:00",
+    "scheduled_time": "2026-09-30T17:03:09+00:00",
     "status": "approved",
     "trial": true,
     "ig_media_id": null,
     "posted_at": null,
-    "last_error": null
+    "last_error": null,
+    "share_to_feed": false
   },
   {
     "id": "batch1-41-showupagain",
     "media_file": "media/batch1/post-41-showupagain.mp4",
     "media_type": "REELS",
     "caption": "Founders Networking Dinner, October 15th, Islamabad. A room worth showing up to more than once. DM \"SHOWUPAGAIN\" for details and to join.",
-    "scheduled_time": "2026-10-03T13:00:00+00:00",
+    "scheduled_time": "2026-09-30T19:03:09+00:00",
     "status": "approved",
     "trial": true,
     "ig_media_id": null,
     "posted_at": null,
-    "last_error": null
+    "last_error": null,
+    "share_to_feed": false
   },
   {
     "id": "batch1-42-bothsides",
     "media_file": "media/batch1/post-42-bothsides.mp4",
     "media_type": "REELS",
     "caption": "Founders Networking Dinner, October 15th, Islamabad. Build the relationship side of the equation here. DM \"BOTHSIDES\" for details and to join.",
-    "scheduled_time": "2026-10-03T17:00:00+00:00",
+    "scheduled_time": "2026-09-30T21:03:09+00:00",
     "status": "approved",
     "trial": true,
     "ig_media_id": null,
     "posted_at": null,
-    "last_error": null
+    "last_error": null,
+    "share_to_feed": false
   },
   {
     "id": "batch1-43-firstaccess",
     "media_file": "media/batch1/post-43-firstaccess.mp4",
     "media_type": "REELS",
     "caption": "Founders Networking Dinner, October 15th, Islamabad. Start building that consistency here. DM \"FIRSTACCESS\" for details and to join.",
-    "scheduled_time": "2026-10-03T21:00:00+00:00",
+    "scheduled_time": "2026-09-30T23:03:09+00:00",
     "status": "approved",
     "trial": true,
     "ig_media_id": null,
     "posted_at": null,
-    "last_error": null
+    "last_error": null,
+    "share_to_feed": false
   },
   {
     "id": "batch1-44-realconnect",
     "media_file": "media/batch1/post-44-realconnect.mp4",
     "media_type": "REELS",
     "caption": "Founders Networking Dinner, October 15th, Islamabad. Build the real version here. DM \"REALCONNECT\" for details and to join.",
-    "scheduled_time": "2026-10-04T01:00:00+00:00",
+    "scheduled_time": "2026-10-01T01:03:09+00:00",
     "status": "approved",
     "trial": true,
     "ig_media_id": null,
     "posted_at": null,
-    "last_error": null
+    "last_error": null,
+    "share_to_feed": false
   },
   {
     "id": "batch1-45-quietcred",
     "media_file": "media/batch1/post-45-quietcred.mp4",
     "media_type": "REELS",
     "caption": "Founders Networking Dinner, October 15th, Islamabad. Find the quiet ones here. DM \"QUIETCRED\" for details and to join.",
-    "scheduled_time": "2026-10-04T05:00:00+00:00",
+    "scheduled_time": "2026-10-01T03:03:09+00:00",
     "status": "approved",
     "trial": true,
     "ig_media_id": null,
     "posted_at": null,
-    "last_error": null
+    "last_error": null,
+    "share_to_feed": false
   },
   {
     "id": "batch1-46-fixedit",
     "media_file": "media/batch1/post-46-fixedit.mp4",
     "media_type": "REELS",
     "caption": "Founders Networking Dinner, October 15th, Islamabad. Capped seats, application only, built to fix exactly what you're describing. DM \"FIXEDIT\" for details and to join.",
-    "scheduled_time": "2026-10-04T09:00:00+00:00",
+    "scheduled_time": "2026-10-01T05:03:09+00:00",
     "status": "approved",
     "trial": true,
     "ig_media_id": null,
     "posted_at": null,
-    "last_error": null
+    "last_error": null,
+    "share_to_feed": false
   },
   {
     "id": "batch1-47-allfour",
     "media_file": "media/batch1/post-47-allfour.mp4",
     "media_type": "REELS",
     "caption": "Founders Networking Dinner, October 15th, Islamabad. All four, on purpose, every edition. DM \"ALLFOUR\" for details and to join.",
-    "scheduled_time": "2026-10-04T13:00:00+00:00",
+    "scheduled_time": "2026-10-01T07:03:09+00:00",
     "status": "approved",
     "trial": true,
     "ig_media_id": null,
     "posted_at": null,
-    "last_error": null
+    "last_error": null,
+    "share_to_feed": false
   },
   {
     "id": "batch1-48-proveit",
     "media_file": "media/batch1/post-48-proveit.mp4",
     "media_type": "REELS",
     "caption": "Founders Networking Dinner, October 15th, Islamabad. Read the application, decide for yourself. DM \"PROVEIT\" for details and to join.",
-    "scheduled_time": "2026-10-04T17:00:00+00:00",
+    "scheduled_time": "2026-10-01T09:03:09+00:00",
     "status": "approved",
     "trial": true,
     "ig_media_id": null,
     "posted_at": null,
-    "last_error": null
+    "last_error": null,
+    "share_to_feed": false
   },
   {
     "id": "batch1-49-transparent",
     "media_file": "media/batch1/post-49-transparent.mp4",
     "media_type": "REELS",
     "caption": "Founders Networking Dinner, October 15th, Islamabad. See exactly how applications get reviewed before you apply. DM \"TRANSPARENT\" for details and to join.",
-    "scheduled_time": "2026-10-04T21:00:00+00:00",
+    "scheduled_time": "2026-10-01T11:03:09+00:00",
     "status": "approved",
     "trial": true,
     "ig_media_id": null,
     "posted_at": null,
-    "last_error": null
+    "last_error": null,
+    "share_to_feed": false
   },
   {
     "id": "batch1-50-askus",
     "media_file": "media/batch1/post-50-askus.mp4",
     "media_type": "REELS",
     "caption": "Founders Networking Dinner, October 15th, Islamabad. Ask us all four. We'll answer directly. DM \"ASKUS\" for details and to join.",
-    "scheduled_time": "2026-10-05T01:00:00+00:00",
+    "scheduled_time": "2026-10-01T13:03:09+00:00",
     "status": "approved",
     "trial": true,
     "ig_media_id": null,
     "posted_at": null,
-    "last_error": null
+    "last_error": null,
+    "share_to_feed": false
   },
   {
     "id": "batch1-51-quality",
     "media_file": "media/batch1/post-51-quality.mp4",
     "media_type": "REELS",
     "caption": "Founders Networking Dinner, October 15th, Islamabad. Quality control, not just a cover charge. DM \"QUALITY\" for details and to join.",
-    "scheduled_time": "2026-10-05T05:00:00+00:00",
+    "scheduled_time": "2026-10-01T15:03:09+00:00",
     "status": "approved",
     "trial": true,
     "ig_media_id": null,
     "posted_at": null,
-    "last_error": null
+    "last_error": null,
+    "share_to_feed": false
   },
   {
     "id": "batch1-52-redflags",
     "media_file": "media/batch1/post-52-redflags.mp4",
     "media_type": "REELS",
     "caption": "Founders Networking Dinner, October 15th, Islamabad. None of these five apply here, and we'll show you why. DM \"REDFLAGS\" for details and to join.",
-    "scheduled_time": "2026-10-05T09:00:00+00:00",
+    "scheduled_time": "2026-10-01T17:03:09+00:00",
     "status": "approved",
     "trial": true,
     "ig_media_id": null,
     "posted_at": null,
-    "last_error": null
+    "last_error": null,
+    "share_to_feed": false
   },
   {
     "id": "batch1-53-quietgrowth",
     "media_file": "media/batch1/post-53-quietgrowth.mp4",
     "media_type": "REELS",
     "caption": "Founders Networking Dinner, October 15th, Islamabad. Growing the quiet way, on purpose. DM \"QUIETGROWTH\" for details and to join.",
-    "scheduled_time": "2026-10-05T13:00:00+00:00",
+    "scheduled_time": "2026-10-01T19:03:09+00:00",
     "status": "approved",
     "trial": true,
     "ig_media_id": null,
     "posted_at": null,
-    "last_error": null
+    "last_error": null,
+    "share_to_feed": false
   },
   {
     "id": "batch1-54-saysno",
     "media_file": "media/batch1/post-54-saysno.mp4",
     "media_type": "REELS",
     "caption": "Founders Networking Dinner, October 15th, Islamabad. We say no more often than you'd think. That's the point. DM \"SAYSNO\" for details and to join.",
-    "scheduled_time": "2026-10-05T17:00:00+00:00",
+    "scheduled_time": "2026-10-01T21:03:09+00:00",
     "status": "approved",
     "trial": true,
     "ig_media_id": null,
     "posted_at": null,
-    "last_error": null
+    "last_error": null,
+    "share_to_feed": false
   },
   {
     "id": "batch1-55-toughq",
     "media_file": "media/batch1/post-55-toughq.mp4",
     "media_type": "REELS",
     "caption": "Founders Networking Dinner, October 15th, Islamabad. Bring the tough questions. DM \"TOUGHQ\" for details and to join.",
-    "scheduled_time": "2026-10-05T21:00:00+00:00",
+    "scheduled_time": "2026-10-01T23:03:09+00:00",
     "status": "approved",
     "trial": true,
     "ig_media_id": null,
     "posted_at": null,
-    "last_error": null
+    "last_error": null,
+    "share_to_feed": false
   },
   {
     "id": "batch1-56-selective",
     "media_file": "media/batch1/post-56-selective.mp4",
     "media_type": "REELS",
     "caption": "Founders Networking Dinner, October 15th, Islamabad. One of the few worth being selective for. DM \"SELECTIVE\" for details and to join.",
-    "scheduled_time": "2026-10-06T01:00:00+00:00",
+    "scheduled_time": "2026-10-02T01:03:09+00:00",
     "status": "approved",
     "trial": true,
     "ig_media_id": null,
     "posted_at": null,
-    "last_error": null
+    "last_error": null,
+    "share_to_feed": false
   },
   {
     "id": "batch1-57-qualityopt",
     "media_file": "media/batch1/post-57-qualityopt.mp4",
     "media_type": "REELS",
     "caption": "Founders Networking Dinner, October 15th, Islamabad. The quality option, not another volume event. DM \"QUALITYOPT\" for details and to join.",
-    "scheduled_time": "2026-10-06T05:00:00+00:00",
+    "scheduled_time": "2026-10-02T03:03:09+00:00",
     "status": "approved",
     "trial": true,
     "ig_media_id": null,
     "posted_at": null,
-    "last_error": null
+    "last_error": null,
+    "share_to_feed": false
   },
   {
     "id": "batch1-58-onemoretry",
     "media_file": "media/batch1/post-58-onemoretry.mp4",
     "media_type": "REELS",
     "caption": "Founders Networking Dinner, October 15th, Islamabad. One more honest try. DM \"ONEMORETRY\" for details and to join.",
-    "scheduled_time": "2026-10-06T09:00:00+00:00",
+    "scheduled_time": "2026-10-02T05:03:09+00:00",
     "status": "approved",
     "trial": true,
     "ig_media_id": null,
     "posted_at": null,
-    "last_error": null
+    "last_error": null,
+    "share_to_feed": false
   },
   {
     "id": "batch1-59-tenminutes",
     "media_file": "media/batch1/post-59-tenminutes.mp4",
     "media_type": "REELS",
     "caption": "Founders Networking Dinner, October 15th, Islamabad. Feel the difference in the first ten minutes. DM \"TENMINUTES\" for details and to join.",
-    "scheduled_time": "2026-10-06T13:00:00+00:00",
+    "scheduled_time": "2026-10-02T07:03:09+00:00",
     "status": "approved",
     "trial": true,
     "ig_media_id": null,
     "posted_at": null,
-    "last_error": null
+    "last_error": null,
+    "share_to_feed": false
   },
   {
     "id": "batch1-60-testquestion",
     "media_file": "media/batch1/post-60-testquestion.mp4",
     "media_type": "REELS",
     "caption": "Founders Networking Dinner, October 15th, Islamabad. Ask us that exact question. DM \"TESTQUESTION\" for details and to join.",
-    "scheduled_time": "2026-10-06T17:00:00+00:00",
+    "scheduled_time": "2026-10-02T09:03:09+00:00",
     "status": "approved",
     "trial": true,
     "ig_media_id": null,
     "posted_at": null,
-    "last_error": null
+    "last_error": null,
+    "share_to_feed": false
   }
 ]

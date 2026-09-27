@@ -74,6 +74,9 @@ def create_media_container(item: dict) -> str:
         # Instagram auto-graduate it to the main grid if it performs well,
         # with no manual in-app step required.
         data["trial_params"] = json.dumps({"graduation_strategy": "SS_PERFORMANCE"})
+    if item.get("share_to_feed") is False:
+        # Reels-tab only, not shown on the main profile grid.
+        data["share_to_feed"] = "false"
     resp = requests.post(
         f"https://graph.facebook.com/{GRAPH_VERSION}/{IG_BUSINESS_ID}/media",
         data=data,
